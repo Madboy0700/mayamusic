@@ -170,6 +170,8 @@ HELP_16 = """
 » /burc - Burçlarınızı yorumluyorım
 
 """
+
+
 HELP_17 = """
 🎰 Oyunlar
 
@@ -205,4 +207,6 @@ HELP_17 = """
 🆘 Komutlar: /cash, /fcash ve /bcash Oyunları sadece gruplarda çalışır.
 📌 Oyunları oynamak için bota start vermelisiniz.
 🏷️ @TgramMuzikBot
+
 """
+
