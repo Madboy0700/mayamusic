@@ -14,7 +14,7 @@ API_HASH = getenv("API_HASH", "6a00b295480c9b9ceff34b43a4b92977")
 BOT_TOKEN = getenv("BOT_TOKEN", "7514201315:AAHX443Yipnh1T4OtElAE18dd9YBYbKkfwk")
 
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://madpanel:madboy11@atlascluster.gprqayn.mongodb.net/?retryWrites=true&w=majority&appName=AtlasCluster")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://madboy123:madboy0707@madboy07.r1nef.mongodb.net/?retryWrites=true&w=majority&appName=madboy07")
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 960))
 
@@ -25,7 +25,7 @@ SONG_DOWNLOAD_DURATION = int(
 LOGGER_ID = int(getenv("LOGGER_ID", "-1002182187594"))
 
 # Get this value from @FallenxBot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", "5901320319"))
+OWNER_ID = int(getenv("OWNER_ID", "7669188252"))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
