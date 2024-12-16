@@ -90,21 +90,21 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://camo.githubusercontent.com/916348846b424fc9431b72e7264814f8b24050baf4b71115aff855b1c8f8a43a/68747470733a2f2f74656c656772612e70682f66696c652f3336626538323061383737356630626663373733652e6a7067"
+    "START_IMG_URL", "https://pbs.twimg.com/media/Ge75bFYWMAASq1g?format=jpg&name=small"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://camo.githubusercontent.com/916348846b424fc9431b72e7264814f8b24050baf4b71115aff855b1c8f8a43a/68747470733a2f2f74656c656772612e70682f66696c652f3336626538323061383737356630626663373733652e6a7067"
+    "PING_IMG_URL", "https://pbs.twimg.com/media/Ge75bFYWMAASq1g?format=jpg&name=small"
 )
-PLAYLIST_IMG_URL = "https://x.com/_1_vehbi_ozturk/status/1868705144659222674/photo/1"
-STATS_IMG_URL = "https://x.com/_1_vehbi_ozturk/status/1868705144659222674/photo/1"
-TELEGRAM_AUDIO_URL = "https://x.com/_1_vehbi_ozturk/status/1868705144659222674/photo/1"
-TELEGRAM_VIDEO_URL = "https://x.com/_1_vehbi_ozturk/status/1868705144659222674/photo/1"
-STREAM_IMG_URL = "https://x.com/_1_vehbi_ozturk/status/1868705144659222674/photo/1"
-SOUNCLOUD_IMG_URL = "https://x.com/_1_vehbi_ozturk/status/1868705144659222674/photo/1"
-YOUTUBE_IMG_URL = "https://x.com/_1_vehbi_ozturk/status/1868705144659222674/photo/1"
-SPOTIFY_ARTIST_IMG_URL = "https://x.com/_1_vehbi_ozturk/status/1868705144659222674/photo/1"
-SPOTIFY_ALBUM_IMG_URL = "https://x.com/_1_vehbi_ozturk/status/1868705144659222674/photo/1"
-SPOTIFY_PLAYLIST_IMG_URL = "https://x.com/_1_vehbi_ozturk/status/1868705144659222674/photo/1"
+PLAYLIST_IMG_URL = "https://pbs.twimg.com/media/Ge75bFYWMAASq1g?format=jpg&name=small"
+STATS_IMG_URL = "https://pbs.twimg.com/media/Ge75bFYWMAASq1g?format=jpg&name=small"
+TELEGRAM_AUDIO_URL = "https://pbs.twimg.com/media/Ge75bFYWMAASq1g?format=jpg&name=small"
+TELEGRAM_VIDEO_URL = "https://pbs.twimg.com/media/Ge75bFYWMAASq1g?format=jpg&name=small"
+STREAM_IMG_URL = "https://pbs.twimg.com/media/Ge75bFYWMAASq1g?format=jpg&name=small"
+SOUNCLOUD_IMG_URL = "https://pbs.twimg.com/media/Ge75bFYWMAASq1g?format=jpg&name=small"
+YOUTUBE_IMG_URL = "https://pbs.twimg.com/media/Ge75bFYWMAASq1g?format=jpg&name=small"
+SPOTIFY_ARTIST_IMG_URL = "https://pbs.twimg.com/media/Ge75bFYWMAASq1g?format=jpg&name=small"
+SPOTIFY_ALBUM_IMG_URL = "https://pbs.twimg.com/media/Ge75bFYWMAASq1g?format=jpg&name=small"
+SPOTIFY_PLAYLIST_IMG_URL = "https://pbs.twimg.com/media/Ge75bFYWMAASq1g?format=jpg&name=small"
 
 
 def time_to_seconds(time):
