@@ -130,3 +130,79 @@ Ongoing stream'un çalma hızını kontrol edebilirsiniz. [Yalnızca yöneticile
 /speed veya /playback : Grubun ses çalma hızını ayarlamak için.
 /cspeed veya /cplayback : Kanalın ses çalma hızını ayarlamak için.
 """
+HELP_16 = """
+✶ Etiket Komutları
+
+» /tag - Tek tek etiketler.
+
+» /utag - Çoklu etiketler.
+
+» /etag - Emoji ile etiketler.
+
+» /igtag - iyi geceler mesajları ile etiketler.
+
+» /guntag - günaydın mesajları ile etiketler.
+
+» /btag - Bayrak ile etiketler.
+
+» /sorutag - Sorularla etiketler.
+
+» /ktag - Karakter ile etiketler.
+
+» /stag - Sözlerle etiketler.
+
+» /stop - Etiket işlemini bitirir.
+
+» /chatmode - sohbet özelliğini açar.
+
+» /slap - Tokat atar.
+
+» /soz - Söz atar.
+
+» /mani - Mani söyler.
+
+» /eros - Eros oku atar.
+
+» /tokat - birine Tokat atar.
+
+» /tts - Bir metni sese çevirir
+
+» /burc - Burçlarınızı yorumluyorım
+
+"""
+HELP_17 = """
+🎰 Oyunlar
+
+• /cash - Slot oyununu oynamak için. 🎰
+   Örnek: /cash 50 veya /cash 50 2x
+   ❌ NOT: /cash 50 3x yaptığınızda, çarpan kadar paranız gider.
+
+• /fcash - Futbol oyununu oynamak için. ⚽️
+   Örnek: /fcash 100 veya /fcash 100 3x
+
+• /bcash - Basketbol oyununu oynamak için. 🏀
+   Örnek: /bcash 50 veya /bcash 50 2x
+
+• /bowling - Bowling atar.🎳
+
+• /dart - Ok atar.🎯
+
+• /slap - Tokat atar.👋
+
+• /zar - Zar atarım.🎲
+
+• /para - Yazı tura atarım.🪙
+
+• /gunluk - Günlük alacağınız bonus. 🤩
+
+• /bakiye - Bakiyenizi kontrol etmek için. 💰
+
+• /borc - Birine borç göndermek için. 💸
+   Örnek: /borc [Miktar] [Kullanıcı İD] veya Mesajı Yanıtla.
+
+• /zenginler - En zengin kullanıcıları görmek için. 🤑
+
+🆘 Komutlar: /cash, /fcash ve /bcash Oyunları sadece gruplarda çalışır.
+📌 Oyunları oynamak için bota start vermelisiniz.
+🏷️ @TgramMuzikBot
+"""
