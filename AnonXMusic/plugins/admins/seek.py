@@ -10,7 +10,7 @@ from config import BANNED_USERS
 
 
 @app.on_message(
-    filters.command(["seek", "cseek", "seekback", "cseekback"])
+    filters.command(["cilerisarback","cgerisarback","ilerisar","cilerisar","seek", "cseek", "seekback", "cseekback"])
     & filters.group
     & ~BANNED_USERS
 )
